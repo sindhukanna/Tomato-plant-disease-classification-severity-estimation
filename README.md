@@ -22,6 +22,12 @@ main.ipynb - comprising
 
 The code is implemented using Python and Jupyter Notebook.
 
+## Usage Instructions
+
+Step 1: Download the PlantVillage Tomato Leaf Dataset from Kaggle.
+Step 2: Place the dataset inside the dataset folder.
+Step 3: Run main notebook.
+
 ## Requirements
 
 Python 3.10
@@ -34,13 +40,6 @@ Seaborn
 Pandas
 Install dependencies using:
 pip install tensorflow numpy opencv-python scikit-learn matplotlib seaborn pandas
-
-## Usage Instructions
-
-Step 1: Download the PlantVillage Tomato Leaf Dataset from Kaggle.
-Step 2: Place the dataset inside the dataset folder.
-Step 3: Run main notebook.
-
 
 ## Methodology
 
