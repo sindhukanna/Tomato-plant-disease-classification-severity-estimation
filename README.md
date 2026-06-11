@@ -13,7 +13,7 @@ The dataset contains healthy and diseased tomato leaf images belonging to multip
 ## Code Information
 
 Main implementation files:
-main.ipynb - comprising 
+final.ipynb - comprising 
 * preprocessing – image preprocessing and augmentation
 * segmentation – leaf segmentation
 * feature_extraction – EfficientNetB0 and HSV feature extraction
